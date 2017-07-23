@@ -1,0 +1,33 @@
+head
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    meta(name="description" content=page.description || '')
+    meta(name="author" content=config.author || '')
+    //- Open Graph Data goes here
+
+    //- Link to RSS feed if enabled
+    -if (theme.rss)
+        link(rel="alternate" href=theme.rss title=config.title type="application/atom+xml")
+
+    //- Link to FavIcon if specified in the config
+    -if (theme.favicon)
+        link(rel="icon" href=theme.favicon)        
+
+    //- Site Title
+    title= page.title || config.title
+
+    //- Bootstrap CSS
+    link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous")
+
+    //- Custom Theme CSS
+    link(rel="stylesheet" href="/css/pucechan.css")
+
+    //- Google Fonts
+    link(href="https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans" rel="stylesheet")
+    
+    include google-analytics
+
+    //- Highlight CSS (Syntax Highlighter)    
+    link(rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css")
+    script(src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js")

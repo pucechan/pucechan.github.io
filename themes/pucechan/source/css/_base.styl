@@ -1,0 +1,22 @@
+html,
+body
+    color $theme-text-colour
+    background-color $theme-background
+    font-family $body-font
+    font-size 1em
+
+a
+    color $theme-colour
+    &:hover
+        text-decoration: none
+        color-revert()
+        transition all .25s
+        cursor pointer
+
+
+strong
+    color $theme-text-colour
+
+h1, h2, h3, h4, h5, h6
+    font-family $header-font
+    color $theme-text-colour

@@ -1,0 +1,4 @@
+div.archive-entry
+    a(href=url_for(post.path)).post-title
+        =post.title || __('untitled_post')
+    div(class="date text-muted")= "Posted on " + full_date(post.date)

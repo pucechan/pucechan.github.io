@@ -1,0 +1,49 @@
+extends includes/layout
+
+block content
+    //- Main Post
+    .row
+        div(class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1")
+            //- Post Info (Author, Date and Tags)
+            div(class="post-info text-muted")
+                span(class="author info")
+                    |By 
+                    =config.author
+                span(class="date-time info")
+                    span.date= date(page.date) + ' - '
+                    span.time= time(page.time)
+                if (page.categories && page.categories.length)
+                    span(class="categories info")
+                        |Under 
+                        //- Iterate through each category
+                        each category in page.categories.toArray()
+                                a(href=url_for(category.path))
+                                    =category.name
+                if (page.tags && page.tags.length)
+                    div(class="post-tags text-muted") Tags: 
+                        //- Iterate through each tag
+                        each tag in page.tags.toArray()
+                                a(class="tag" href=url_for(tag.path))
+                                    = '#' + tag.name
+            //- Push out the main content
+            div(class="post-content")!= page.content
+
+            -
+                if (page.permalink)
+                    var disqus_url = page.permalink
+                if (config.disqus_shortname)
+                    var disqus_shortname = config.disqus_shortname;
+
+            #disqus_thread
+                script.
+                    var disqus_config = function () {
+                    this.page.url = disqus_shortname  // Replace PAGE_URL with your page's canonical URL variable
+                    this.page.identifier = disqus_url; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                    };
+                    (function() {
+                        var dsq = document.createElement('script');
+                        dsq.type = 'text/javascript';
+                        dsq.async = true;
+                        dsq.src = 'https://pucechans-corner.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();                            

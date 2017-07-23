@@ -1,0 +1,51 @@
+/* normal style */
+.site-header
+
+  padding remify(40px) 0
+  border-bottom 1px solid $theme-seperator
+  margin-bottom remify(30px)
+  
+  &.header-background
+    border-bottom 0
+    background-color gray
+    background-position center center
+    background-attachment scroll
+    -webkit-background-size cover
+    -moz-background-size cover
+    background-size cover
+    -o-background-size cover
+
+.page-title
+  color $theme-text-colour
+  text-align center
+  text-shadow 2px 2px 5px $colour-black
+
+  &.with-background
+    color $colour-white
+    padding remify(50px) 0
+
+    h1
+      color $colour-white
+
+  .title
+    font-size remify(36px)
+
+.site-menu
+  text-align center
+  margin-top remify(10px)
+  text-shadow 1px 1px 1px $colour-black
+  ul
+    margin 0 auto
+    padding 0
+    > li
+      display inline-block
+      margin-right remify(10px)
+      &:last-child
+        margin-right 0
+      > a
+        padding remify(3px) remify(10px)
+        border-radius remify(2px)
+
+  &.with-background
+    a
+      color $colour-white

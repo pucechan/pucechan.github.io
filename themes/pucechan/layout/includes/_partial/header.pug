@@ -1,0 +1,44 @@
+-
+    // headerClass will be just 'site-header' if no featured-image or
+    // site wide image is defined otherwise it'll be 'site-header header-background'
+    var headerClass = 'site-header'
+    var headerStyle = ''
+    var pageTitleClass = 'page-title'
+    var siteMenuClass = 'site-menu'
+    var pageTitle = ''
+    var pageSubtitle = ''
+
+    if (page.cover_image || theme.use_cover) {
+        pageTitleClass += ' with-background'
+        siteMenuClass += ' with-background'
+        headerClass += ' header-background'
+        headerStyle = 'background-image: url(' + theme.cover_image + ')'
+    }
+
+    // Is the current page a post/page?
+    if (is_post()) {
+        if (page.cover_image) headerStyle = 'background-image: url(' + page.cover_image + ')'
+        pageTitle = page.title || __('untitled_post')
+    }
+    // Is the current page an archive?
+    else if (is_archive())
+        pageTitle = __('archive_title')
+    // If neither is true, we must be the home page
+    else {
+        pageTitle = config.title
+        if (config.subtitle) pageSubtitle = config.subtitle
+    }
+
+header(class=headerClass style=headerStyle)
+    .container
+        .row
+            div(class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1")
+                div(class=pageTitleClass)
+                    h1.title!= pageTitle
+                    p.subtitle!= pageSubtitle
+                div(class=siteMenuClass)
+                    ul
+                        //- Iterate through the Menu array, val = url, i = name
+                        each val, i in theme.menu
+                            li
+                                a(href=val ? url_for(val) : url_for(val))=i

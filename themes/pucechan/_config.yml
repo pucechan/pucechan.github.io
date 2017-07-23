@@ -1,0 +1,29 @@
+# Navigation Menu in the Header
+menu:
+  Home: /
+  Archives: /archives
+  Youtube: http://www.youtube.com/pucechan
+  Mixer: http://www.mixer.com/pucechan
+#  Github: https://github.com/pucechan
+
+# RSS URL
+rss: /atom.xml
+
+# use_cover (Use image in header)
+use_cover: false
+cover_image: /img/default_cover.jpg
+
+widgets:
+- category
+- tag
+- archive
+
+# widget options
+archive_type: 'monthly'
+show_count: false
+
+# favicon
+favicon: /favicon.png
+
+# Google Analytics Tracking ID
+google_analytics: 
