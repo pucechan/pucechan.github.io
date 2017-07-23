@@ -78,4 +78,4 @@ A big part of the draw for these things is nostalgia and the SNES Classic Mini h
 
 I'd played other consoles around friend's houses like the Sega Master System and Megadrive (in my experience the NES was far rarer here in the UK) but the good old Super Nintendo was mine, because of that it holds lots of happy memories. I'm rather attached to the curvy grey shell in ways that the original NES Classic Mini could never manage.
 
-I'm looking forward to putting the machine through its paces when mine arrives later in the year. In the run up to the release though I plan on seeing how each of the games stand up after all these years and writing about them.
+I'm looking forward to putting the machine through its paces when mine arrives later in the year. In the run up to the release though I plan on seeing how each game stands up after all these years and writing a bit about each of them.
