@@ -4,7 +4,8 @@ date: 2017-07-23 12:55:16
 cover_image: cover.jpg
 category: Gaming
 tags:
-    - SNES Classic Mini
+    - SNES Mini
+    - Retro
     - Thoughts
 ---
 
