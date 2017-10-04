@@ -2,7 +2,7 @@
 title: N64 Mini Thoughts
 date: 2017-09-11 01:10:15
 cover_image: 
-category: gaming
+category: Gaming
 tags:
     - thoughts
     - retro
