@@ -2,10 +2,10 @@
 title: N64 Mini Thoughts
 date: 2017-09-11 01:10:15
 cover_image: 
-category: gaming
+category: Gaming
 tags:
-    - thoughts
-    - retro
+    - Thoughts
+    - Retro
 ---
 
 With the SNES Mini edging closer to release I was thinking about what a N64 Mini could look like and what game selection the system could realistically have.

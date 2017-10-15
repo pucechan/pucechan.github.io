@@ -4,8 +4,8 @@ date: 2017-07-23 03:20:00
 cover_image: cover.jpg
 category: General
 tags:
-    - blog
-    - hexo
+    - Blog
+    - Hexo
 ---
 
 As is customary for every new blog, this post hopefully outlines my hopes for the blog and what kind of content you can expect.
