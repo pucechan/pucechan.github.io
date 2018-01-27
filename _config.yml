@@ -69,7 +69,10 @@ plugins:
   - hexo-generator-cname
   - hexo-deployer-git
 
+<<<<<<< HEAD
 markdown: 'default'
+=======
+>>>>>>> 6cb7f473ba287e5330f834a07a6038d3b5e329df
 disqus_shortname: pucechans-corner
 
 # Deployment
