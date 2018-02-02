@@ -4,7 +4,7 @@
   border-bottom 1px solid $theme-seperator
   margin-bottom remify(30px)
   border-bottom 0
-  background-color #ccc
+  background-color #191919
   background-position center center
   background-attachment scroll
   -webkit-background-size cover
@@ -14,7 +14,7 @@
   
   &.header-background
     border-bottom 0
-    background-color #ccc
+    background-color #191919
     background-position center center
     background-attachment scroll
     -webkit-background-size cover
@@ -24,23 +24,22 @@
 
 .page-title
   padding remify(50px) 0
-  color $theme-text-colour
+  color $theme-colour
   text-align left
-  text-shadow 2px 2px 5px $colour-black
+  text-shadow 2px 2px 5px $theme-colour
 
   &.with-background
-    color $colour-white
+    color $theme-colour
     text-align center
 
-
     h1
-      color $colour-white
+      color $colour-black
 
   .title
     font-size remify(36px)
 
 .site-menu
-  border-top 1px solid #aeaeae
+  border-top 1px solid $theme-colour
   text-align right
   margin-top remify(10px)
   padding-top remify(12px)
@@ -54,9 +53,10 @@
       &:last-child
         margin-right 0
       > a
+        color $colour-black
         padding remify(3px) remify(10px)
         border-radius remify(2px)
 
   &.with-background
     a
-      color $colour-white
+      color $colour-black
