@@ -1,6 +1,6 @@
 ---
 title: 'BackLOG: Generations of Monster Hunting'
-date: 2018-03-03 00:24:11
+date: 2018-03-06 02:03:04
 cover_image: cover.jpg
 category: Gaming
 tags:
