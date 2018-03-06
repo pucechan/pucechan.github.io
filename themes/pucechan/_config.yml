@@ -4,14 +4,14 @@ menu:
   Archives: /archives
   Youtube: http://www.youtube.com/pucechan
   Mixer: http://www.mixer.com/pucechan
-#  Github: https://github.com/pucechan
+  Twitch: http://twitch.tv/pucechan
 
 # RSS URL
 rss: /atom.xml
 
 # use_cover (Use image in header)
-use_cover: false
-cover_image: /img/default_cover.jpg
+use_cover: true
+cover_image: /img/default_cover.png
 
 widgets:
 - category
