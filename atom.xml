@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pucechan&#39;s Corner</title>
+  
+  <subtitle>Ramblings of a Nerdy Mad Man</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://pucechan.ga/"/>
+  <updated>2018-04-04T07:06:19.767Z</updated>
+  <id>http://pucechan.ga/</id>
+  
+  <author>
+    <name>Simon Brown</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Creativity That Will 100% Happen In April, HONEST!!!</title>
+    <link href="http://pucechan.ga/2018/04/Creativity-That-Will-100-Happen-In-April-Honest/"/>
+    <id>http://pucechan.ga/2018/04/Creativity-That-Will-100-Happen-In-April-Honest/</id>
+    <published>2018-04-04T07:06:00.000Z</published>
+    <updated>2018-04-04T07:06:19.767Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018 is moving on at an incredible pace, we’re already three down of twelve and it’s showing no signs of slowing down. To try and encourage me to do something productive everyday I’m going to try and get creative…</p><a id="more"></a><p>I’ve played with 3D modelling multiple times over the years, but never really committed to it as I’ve never had a project in mind. I’ve decided to change that up and finally get around to figuring out the basics of <em>Blender</em> after fiddling with it on and off for donkeys.</p><p>To that end I’m planning on making <strong>something</strong> every day or two in April, I’m going to start small with simple prop type creations and see where we end up. As well as <em>Blender</em> I’m going to use this as an excuse to learn other free software, from <em>Krita</em> to <em>MagicaVoxel</em> and any number of other tools that crop up.</p><p><img src="OldMedia.png" alt="Old Media"></p><p>Hopefully with some practice I can make things that don’t look terrible and that might look okay in a game environment! Then we can fiddle around in Godot, Unity or something as the months inevitably draw us closer to the end of the year.</p><p>First things first though… probably a crate!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018 is moving on at an incredible pace, we’re already three down of twelve and it’s showing no signs of slowing down. To try and encourage me to do something productive everyday I’m going to try and get creative…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="General" scheme="http://pucechan.ga/categories/General/"/>
+    
+    
+      <category term="Creativity" scheme="http://pucechan.ga/tags/Creativity/"/>
+    
+      <category term="Blender" scheme="http://pucechan.ga/tags/Blender/"/>
+    
+      <category term="Modelling" scheme="http://pucechan.ga/tags/Modelling/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Thoughts on Sea of Thieves and Hype</title>
+    <link href="http://pucechan.ga/2018/03/Thought-on-Sea-of-Thieves-and-Hype/"/>
+    <id>http://pucechan.ga/2018/03/Thought-on-Sea-of-Thieves-and-Hype/</id>
+    <published>2018-03-24T17:32:00.000Z</published>
+    <updated>2018-03-24T17:36:41.705Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Sea of Thieves</em> released this week to an assortment of reactions. It’s also an interesting test case for Microsoft’s Netflix-lite Game Pass programme. Here are my thoughts…</p><a id="more"></a><p>It’s been a while since we’ve seen Rare produce a full fat experience. Being tied to the Kinect in the immediate past we have to go all the way back to 2008’s <em>Banjo-Kazooie: Nuts &amp; Bolts</em> on the Xbox 360. Since that time a lot of the original Rare staff moved on, some went to Playtonic Games and worked on <em>Yooka-Laylee</em>.</p><p><img src="SoT1.jpg" alt="Sea of Thieves is gorgeous!"></p><p><em>Sea of Thieves</em> started production in 2014 and was announced in 2015 with the first gameplay being shown at E3 2016. Fast forward to today and its release has been met with what could charitably be called mixed reviews.</p><p>The main criticism levied at it is the sheer lack of content. The core of the game resolves around performing quests (called Voyages here) for three factions. The Gold Hoarders give you treasure hunts that involve ‘X Marks the Spot’ style maps or riddles to solve; The Order of Souls task you with hunting reanimated skeleton pirates and the Merchant Alliance sends you off to find certain items and deliver them.</p><p>The problem is these quests never develop into anything more complex and become retitive really quickly, especially if playing the game solo. Playing in a group obviously offsets this just due to most things in-game benefitting from player interaction. Solving riddles, finding chests, hunting pigs and larking about on your boat is just more fun with others; even the addition of a single person tranforms how it feels to play.</p><p><img src="SoT2.jpg" alt="Insert Comment Here"></p><p>Playing solo isn’t necessarily a bad experience, I find <em>SoT</em> an exceptionally relaxing and chill game to play. The repetitive nature of the quests proving to be nothing more than a nudge to sail about and relax watching the sea as you slowly increase your reputation with the three factions.</p><p>These criticisms are fair, but the lack of quest diversity and complexity is just one facet of its problems. The game has been in development for over 3 years yet there is only one enemy type, skeletons (assuming you don’t count the Kraken). Now admittedly there are four types of skeleton (essentially the equivalent of old-school palette swaps) but fighting the same enemy over and over gets old quick. Combat also feels undercooked and unrefined consisting of slashing and blocking or basic gunplay.</p><p>A lot of these elements were seen in the E3 2015 reveal and don’t appear to have changed much in the meantime. Each element of the game, from quests to enemy variety to combat just feels extremely barebones. The one aspect the game truly nails however is atmosphere and visuals.</p><p><img src="SoT3.jpg" alt="Insert Comment Here"></p><p>It’s indicative of how good the feeling of sailing the sea combined with absolutely breathtaking water and cloud rendering that it manages to cover over the game’s structural issues significantly. It’s just a lot of fun to play whilst you are playing it.</p><p>The skeleton (HA!) of the game is solid and if Rare expand on it meaningfully through updates then it could become a great thing. It just should’ve been more than it is already and the first impressions sadly might damage it in the long run.</p><p>The decision to sell it at full retail £50/$60 also boggles the mind as based on what is in there right now it’s hard to justify. It being the first first-party title to debut on Microsoft’s Game Pass will be interesting to analyse later down the line but that route is definitely a better way to see if it’s for you. Plopping down £7.99/$9.99 or even using the 14-day free trial to experience it is a lot easier to recommend.</p><p><img src="SoT4.jpg" alt="Insert Comment Here"></p><p><em>Sea of Thieves</em> even with its AAA budget and stunning visuals doesn’t really feel like it earns the right to sell for full retail price, it’d be much easier to swallow as a budget title. Especially with titles like <em>Blackwake</em> on the horizon and Ubisoft’s <em>Skull &amp; Bones</em> attempting to enter the piracy market this year.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;Sea of Thieves&lt;/em&gt; released this week to an assortment of reactions. It’s also an interesting test case for Microsoft’s Netflix-lite Game Pass programme. Here are my thoughts…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+      <category term="Sea of Thieves" scheme="http://pucechan.ga/tags/Sea-of-Thieves/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>#MonMonth Community Game Along - Monster Hunter G</title>
+    <link href="http://pucechan.ga/2018/03/MonMonth-Community-Game-Along-Monster-Hunter-G/"/>
+    <id>http://pucechan.ga/2018/03/MonMonth-Community-Game-Along-Monster-Hunter-G/</id>
+    <published>2018-03-09T20:05:00.000Z</published>
+    <updated>2018-03-09T20:07:16.673Z</updated>
+    
+    <content type="html"><![CDATA[<p>Anne over at <a href="http://chic-pixel.com/" target="_blank" rel="noopener">Chic-Pixel</a> organises a whole slew of monthly game alongs (as well as a ton of other awesome nerdy content) and this month is #MonMonth, featuring <em>Monster Hunter</em>(-like) games.</p><a id="more"></a><p>I decided to actually participate this month so I broke out the Wii Classic Controller (Thanks <a href="https://twitter.com/Acelister" target="_blank" rel="noopener">@Acelister</a>!!!) and decided to attempt to play through the Japanese only Wii port of <em>Monster Hunter G</em>. This port of the expanded game has a few changes to the PS2 original, changing the control scheme and adding new monsters amongst other things.</p><p><img src="stream.jpg" alt="Bullfango making his presence felt"></p><p>I streamed the first 8 or so quests on my <a href="https://www.twitch.tv/videos/236175330" target="_blank" rel="noopener">Twitch</a>/<a href="https://mixer.com/pucechan?vod=22772708" target="_blank" rel="noopener">Mixer</a> channels a couple of days ago and hope to do my next stream this weekend. I don’t actually know Japanese at all (outside of recognising some Kana) so me figuring stuff out should be quite amusing and I try and involve the chat as I attempt to make progress.</p><p>I highly recommend getting involved, check out <a href="http://chic-pixel.com/2018/03/march-2018-community-game-along-monster-hunter-likes/" target="_blank" rel="noopener">Anne’s post</a>, and tweet your videos/screenshots and comments with the #MonMonth hashtag!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Anne over at &lt;a href=&quot;http://chic-pixel.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Chic-Pixel&lt;/a&gt; organises a whole slew of monthly game alongs (as well as a ton of other awesome nerdy content) and this month is #MonMonth, featuring &lt;em&gt;Monster Hunter&lt;/em&gt;(-like) games.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="MonHun" scheme="http://pucechan.ga/tags/MonHun/"/>
+    
+      <category term="MonMonth" scheme="http://pucechan.ga/tags/MonMonth/"/>
+    
+      <category term="Community" scheme="http://pucechan.ga/tags/Community/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BackLOG: Generations of Monster Hunting</title>
+    <link href="http://pucechan.ga/2018/03/BackLOG-Generations-of-Monster-Hunting/"/>
+    <id>http://pucechan.ga/2018/03/BackLOG-Generations-of-Monster-Hunting/</id>
+    <published>2018-03-06T02:03:04.000Z</published>
+    <updated>2018-03-06T02:03:34.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>With <em>Monster Hunter World</em> finally out in the wild, I’ve found myself playing a lot of the earlier entries so I thought I’d look back at what each generation brought to the table…</p><a id="more"></a><p><em>Monster Hunter</em> as a franchise had an underwhelming beginning in the West. The original PS2 game failed to sell causing us to miss out on the expanded <em>Monster Hunter G</em> <em>(Interestingly, the G doesn’t stand for anything afaik but is often used in Japan to mean bigger/better. The G titles would later become the Ultimate entries in the West.)</em> and the sequel <em>Monster Hunter 2 (Dos)</em>.</p><p><img src="MonsterHunterG.png" alt="Monster Hunter G (Wii)"></p><p>The <em>G</em> entries offer numerous tweaks to the game they are based on but the main feature that they brought with them is the addition of G-Rank quests, a tier above what the original titles provide and the ultimate test of Hunter skill. This trend would continue throughout the series, with Western releases typically being based on these versions of the games.</p><p>The initial games came out of the gate pretty fully formed with the mechanics of hunting and capturing nailed down from the off and a lot of minutiae in how certain stats work like <strong>Sharpness</strong>; a damage modifier that lowered the more strikes you make and <strong>Affinity</strong>; essentially a critical chance modifier, not really changing all that much in later games.</p><p>A lot of the initial roster of monsters would become iconic for the series, creatures like Rathian and Rathalos were here from the start and would make appearances in every entry afterwards. <em>Monster Hunter 2 (Dos)</em> would add time of day and seasonal changes which affected monster appearances as well as the addition of decorations which allowed you to customise your skills more easily.</p><p>The series would return to the West with <em>Monster Hunter Freedom</em> on the PSP, it was based on <em>Monster Hunter G</em> but included new content and features. The move to the portable powerhouse saw it make some headway in popularity, so much so that we also saw <em>Monster Hunter Freedom 2</em> and <em>Monster Hunter Freedom Unite</em> make their way to the system. These included monsters and elements from <em>Monster Hunter 2 (Dos)</em> with <em>Unite</em> being the largest game so far based purely on amount of monsters, weapons and quests.</p><p><img src="MonsterHunter3U.png" alt="Monster Hunter 3 Ultimate (WiiU)"></p><p>The third generation launched on the Nintendo Wii with <em>Monster Hunter 3 (Tri)</em>, initially announced for the PS3, development was moved to the Wii because of the system’s broader audience. <em>Tri</em> brought with it underwater combat that only saw use in this and <em>Monster Hunter 3 Ultimate</em>. Japan saw another PSP release in between these that never arrived here: <em>Monster Hunter Portable 3rd</em>. <em>Portable 3rd</em> has a distinctively oriental look and feel and didn’t have the underwater elements of the other third generation games, it also is unique in that it came out on the PlayStation 3 as one of the few PSP Remasters.</p><p><em>Monster Hunter 3 Ultimate (MH3U)</em> brought in elements from <em>Portable 3rd</em> such as the Misty Peaks area, making it more than just an extension of <em>Tri</em>. The third generation also introduced the concept of <strong>blights</strong>, elemental debuffs that made monster attacks more interesting than just straight damage, requiring you to give more thought to your preparation.</p><p>Generation four, starting with <em>Monster Hunter 4</em> on the 3DS brought with it three dimensional terrain and the mounting of monsters to do damage. Maps were no longer flat expanses with some vegetation, climbable surfaces and ledges to jump off made a big difference to how navigating the world feels.  <em>Monster Hunter 4 Ultimate</em> brought with it online multiplayer which was a massive addition compated to the purely local wireless option of the prior 3DS entries.</p><p><img src="MonsterHunterP3rd.png" alt="Monster Hunter Portable 3rd (PS3)"></p><p><em>Monster Hunter X</em> known as <em>Monster Hunter Generations</em> here is a spin-off game, celebrating 10 years the series. It acts almost like a greatest hits entry featuring lots of fanservice, villages from the prior games make an appearance along with a lot of fan favourite monsters.</p><p>It does bring a lot of new stuff to the table though, introducing Hunter Arts; special moves you can pull off after filling up a gauge and Hunter Styles; essentially four subclasses that alter your moveset and determine what Hunter Arts you can access.</p><p><em>Monster Hunter XX (Double Cross)</em> acts as the <em>G</em> or <em>Ultimate</em> edition of <em>X/Generations</em> adding two new Hunting Styles as well as bringing new monsters as well as reintroducing some old favourites (like Barroth). <em>Double Cross</em> released on the 3DS and on the Switch.</p><p>Sadly it looks like the 3DS or Switch versions of <em>Double Cross</em> won’t be localised now <em>Monster Hunter World</em> is out, but the Switch at least is region free so you can import it if you are interested in it. I would LOVE it if it did get localised though. The popularity of World COULD sway Capcom to bring it over.</p><p>So that’s a brief look at what each generation brought, I intend to go a bit more in-depth in the coming weeks as I plan on playing through the ones I can stream, so will likely talk about them a bit more. It’s interesting to see how the games have evolved as, at least at first glance, they do all seem very similar. It’s definitely been a case of evolution rather than revolution but the series has definitely grown from it’s rough and ready PS2 roots.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;With &lt;em&gt;Monster Hunter World&lt;/em&gt; finally out in the wild, I’ve found myself playing a lot of the earlier entries so I thought I’d look back at what each generation brought to the table…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="BackLOG" scheme="http://pucechan.ga/tags/BackLOG/"/>
+    
+      <category term="MonHun" scheme="http://pucechan.ga/tags/MonHun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Revisiting the Backlog...</title>
+    <link href="http://pucechan.ga/2018/01/Revisiting-the-Backlog/"/>
+    <id>http://pucechan.ga/2018/01/Revisiting-the-Backlog/</id>
+    <published>2018-01-27T20:30:00.000Z</published>
+    <updated>2018-01-27T23:47:11.833Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’ve been playing <em>No Man’s Sky</em> again this last few weeks. Reviewed harshly upon release way back in the halcyon days of August 2016, there was no way it could live up to the hype that had built up and a lot of the disappointment was caused by Hello Games themselves.</p><a id="more"></a><p> It was still a competent enough game, fun even, but it wasn’t really what we’d been sold by the PR. I myself <a href="https://www.gamegrin.com/reviews/no-mans-sky-review/" title="No Man&#39;s Sky Review on GameGrin" target="_blank" rel="noopener">gave it a 6/10</a> for GameGrin.</p><p>Hello Games deserve credit for sticking in there and providing solid updates to the game in the year and change since launch. Going back to it a few weeks ago it felt very alien and confusing! Major systems have been added since I last played around a month after launch, Base Building, Vehicles, Farming and Portals enabling basic multiplayer are all substantial elements and change up the game drastically.</p><p>Some of these are often at odds with the core design of the game which initially pushes you to get to the centre of the galaxy it soon starts to feel “right”. The new additions basically slow your progression but in a good way, you now have reasons to explore and gather resources as there are now things that only appear on certain planet types. The addition of procedural missions along with an improved quest and subquests really help to give structure and purpose for your journey.</p><p>I’ll definitely have more to say about NMS in the future, but it’s definitely in a better spot now than it was at launch even if the combat and trading elements are still weak.</p><h1 id="…and-Going-Retro"><a href="#…and-Going-Retro" class="headerlink" title="…and Going Retro"></a>…and Going Retro</h1><p>Other than going back to the infinite universe of NMS I’ve also been streaming a little. I’m a so called “variety” streamer, in that I pretty much stream whatever takes my fancy rather than a particular game. Recent streams have included <em>No Man’s Sky</em> and <em>Paper Mario</em>, the latter of which I started early last year and let lapse repeatedly.</p><p>I’m determined to get <em>Paper Mario</em> out the way though and fully intend to stream that more frequently so I can start another long-ish game. There are a lot of DOS games I played/saw growing up that I either liked the look of but never got into properly or that I just never grasped that I’d love to go back and see.</p><p>I’m currently thinking about playing <em>Ultima 7 - The Black Gate</em> next as whilst I’m aware of <em>Ultima</em> in general and played a lot of <em>Ultima Online</em> back in the day, I don’t recall ever getting anywhere in U6-8. <em>Ultima 6</em> is a little quirky, having speaker sound with soundcard audio so I think the seventh instalment would make a better option. As much as I’d like to play the earlier games they might be a little impenetrable without the nostalgia of having played them back then…</p><p>Smaller streams showing off quirky old 8-bit stuff I loved form my childhood might be a fun thing to do too. So a mix of modern and retro with a focus on the older stuff. Now I just need time to schedule these things…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I’ve been playing &lt;em&gt;No Man’s Sky&lt;/em&gt; again this last few weeks. Reviewed harshly upon release way back in the halcyon days of August 2016, there was no way it could live up to the hype that had built up and a lot of the disappointment was caused by Hello Games themselves.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Goodbye 2017</title>
+    <link href="http://pucechan.ga/2017/12/Goodbye-2017/"/>
+    <id>http://pucechan.ga/2017/12/Goodbye-2017/</id>
+    <published>2017-12-19T21:06:05.000Z</published>
+    <updated>2018-01-27T21:41:21.437Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s been forever since writing anything, I’m going to just blame 2017 for being a stinky poopyhead and hope that 2018 will be better. I’ve not had a very productive time with things I’ve wanted to do and I’m determined to change that going into next year.</p><a id="more"></a><p>I’m still contributing the odd written piece over at <a href="http://www.gamegrin.com" target="_blank" rel="noopener">GameGrin</a> and donating my vocal chords to both the GrinCast and <a href="https://www.youtube.com/channel/UC3x11MgSAntPTP676kXPw-g" target="_blank" rel="noopener">Moving Pictures</a>‘ TransformCast. And while I have no plans to stop reviewing or creating stuff with those lovely folk I do want to make an effort with my own stuff.</p><p>As I’ve become acutely aware, I suck at scheduling and motivation for my own stuff. But I do want to get on some kind of regular cadence with content, both written and visual.</p><p>The first video for RetroACTIVE, looking at <em>Gargoyle Games</em>‘ quirky Celtic trilogy really should’ve been out by now. It’s been scripted and had the voicework recorded for awhile, just needing some video capture and editing together. So that’s first up for getting finished in the new year.</p><p>Once that is finally out I can think about what other videos to put out but I’m definitely wanting to start let’s playing more obscure older titles in a segmented fashion on YouTube.</p><p>Here’s to next year being more productive than this one!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s been forever since writing anything, I’m going to just blame 2017 for being a stinky poopyhead and hope that 2018 will be better. I’ve not had a very productive time with things I’ve wanted to do and I’m determined to change that going into next year.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="General" scheme="http://pucechan.ga/categories/General/"/>
+    
+    
+      <category term="Blog" scheme="http://pucechan.ga/tags/Blog/"/>
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ROM Dump - Time Flies</title>
+    <link href="http://pucechan.ga/2017/10/ROM-Dump-Time-Flies/"/>
+    <id>http://pucechan.ga/2017/10/ROM-Dump-Time-Flies/</id>
+    <published>2017-10-15T19:28:30.000Z</published>
+    <updated>2018-01-27T21:41:21.451Z</updated>
+    
+    <content type="html"><![CDATA[<p>So it’s been a few weeks since my last post, I’ve had some drama with my domain name being hijacked and all sorts of other shenanigans but it’s settling down again so it’s about time I ramble!</p><a id="more"></a><p>Since my last post the <strong>SNES Classic Mini</strong> has launched and is a fun little thing. It was also broken open within a matter of days as it shares the same hardware as the <strong>NES Classic Mini</strong>. I’ve been playing mine daily since I bought it and I love the cute little thing to death.</p><p>I’ll post more about the Mini and link to the review I did for <a href="http://www.gamegrin.com" target="_blank" rel="noopener">GameGrin</a> when it goes live over there (It was finished shortly after it launched, it’s just not scheduled to go live yet).</p><p>It’s safe to say my mission of playing all 21 of the included games prior to launch didn’t succeed but I do plan on streaming myself playing through each of the RPGs on the thing at some point.</p><p>I’m going to make a concerted effort to stream more frequently as I do enjoy it. I’m finding time management to be a major hurdle at the moment but I need to figure it out!</p><p>I need to at least finish helping Mario out on his papercraft adventure on the N64 before the year is up!</p><p>Also on the “need to stop procrastinating” list is video content and pod/vodcasts. Due to no good reasons, I still haven’t got any video stuff done, I do however regularly participate in the GrinCast for <a href="http://www.gamegrin.com" target="_blank" rel="noopener">GameGrin</a> which is a weekly podcast about gaming and the TransformCast with my friend and Transformers encyclopedia, Acelister, where we talk about each issue of the comic (and Transformers in general) from the 1980s.</p><p>The TransformCast is available over on the <a href="https://www.youtube.com/channel/UC3x11MgSAntPTP676kXPw-g" target="_blank" rel="noopener">Moving Pictures</a> YouTube channel. Be gentle and give feedback as we strive to improve as we go on!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So it’s been a few weeks since my last post, I’ve had some drama with my domain name being hijacked and all sorts of other shenanigans but it’s settling down again so it’s about time I ramble!&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="General" scheme="http://pucechan.ga/categories/General/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="ROM Dump" scheme="http://pucechan.ga/tags/ROM-Dump/"/>
+    
+      <category term="Site" scheme="http://pucechan.ga/tags/Site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>N64 Mini Thoughts</title>
+    <link href="http://pucechan.ga/2017/09/N64-Mini-Thoughts/"/>
+    <id>http://pucechan.ga/2017/09/N64-Mini-Thoughts/</id>
+    <published>2017-09-11T00:10:15.000Z</published>
+    <updated>2018-01-27T21:41:21.439Z</updated>
+    
+    <content type="html"><![CDATA[<p>With the SNES Mini edging closer to release I was thinking about what a N64 Mini could look like and what game selection the system could realistically have.</p><a id="more"></a><p>The success of the Nintendo Classic Mini series, despite the long winded official names that are different per region, almost guarantees that we’ll see an N64 Mini at some point. The Nintendo 64 is a curious beast both from a hardware standpoint and from a game library one.</p><h2 id="Hardware-Issues"><a href="#Hardware-Issues" class="headerlink" title="Hardware Issues"></a>Hardware Issues</h2><p>The controller is the first thing that jumps to mind, it’s still a quirky and unusual bit of hardware visually and physically. The analogue stick is notorious for getting gunked up and just flat out failing over time, and that could be a problem for a potential Mini. It’s also just not as straightforward to manufacture, the tri-prong design is definitely still just an odd thing all round.</p><p>Something that comes to mind when you think about the controller was the system’s unique use of addon Paks to enhance the experience and whilst some of these (most?) could be built into the system/controller now like the Rumble Pak or the Controller Pak (Memory Card), some games that you’d imagine would be considered for a N64 Mini like <em>Pokémon Stadium 1 and 2</em> relied on the Transfer Pak to allow you to use your Game Boy Pokémon rather than use boring Rental ones.</p><p>I can’t think of an easy to implement way of including that functionality (perhaps some connectivity with the <em>Pokémon Bank</em> service) but those games would definitely lose something withough it. <em>Mario Golf</em> and <em>Mario Tennis</em> also both used this functionality too though so it would be nice if those features could somehow be kept.</p><p>Transfer Pak quirks aside, the systems innate support for four controllers without needing a multitap would also be nice to keep although I can’t imagine Nintendo supplying four out of the box, keeping the support would be a nice touch however.</p><h2 id="The-Games"><a href="#The-Games" class="headerlink" title="The Games"></a>The Games</h2><p>This is where the discussion gets interesting as there are some obvious first party entries that would probably be a shoe-in without a second thought:</p><ul><li><em>Super Mario 64</em></li><li><em>Pilotwings 64</em></li><li><em>Wave Race 64</em></li><li><em>F-Zero X</em></li><li><em>Star Fox 64 (Lylat Wars)</em></li><li><em>Mario Kart 64</em></li><li><em>Super Smash Bros.</em></li><li><em>The Legend of Zelda: Ocarina of Time</em></li><li><em>The Legend of Zelda: Majora’s Mask</em></li></ul><p>They’d probably also include one or both of <em>Mario Golf</em> and <em>Mario Tennis</em> along with maybe a <em>Mario Party</em> to add some more variety. There are some well-loved and fondly remembered titles from third parties too that would seem obvious but might need some licence wrangling to make happen, notably:</p><ul><li><em>Turok: Dinosaur Hunter</em></li><li><em>Star Wars: Rogue Squadron</em></li><li><em>Star Wars: Episode One Racer</em></li><li><em>DOOM 64</em></li><li><em>Body Harvest</em></li></ul><p>But a lot of fondly remembered games were made by Rare; <em>Banjo-Kazooie</em>, <em>Blast Corps</em>, <em>Goldeneye 007</em>, <em>Perfect Dark</em>, <em>Jet Force Gemini</em>, <em>Conker’s Bad Fur Day</em>, <em>Donkey Kong 64</em>, <em>Diddy Kong Racing</em> to name just a selection. Whilst at least one of those <em>Donkey Kong 64</em> still belongs to Nintendo, with <em>Diddy Kong Racing</em> being in a weird limbo due to characters in that game, the others are all Rare/Microsoft property now.</p><p>It’s unclear if Microsoft would allow those games to end up on such a device although perhaps a little monetary persuasion could make it happen, most of those titles have appeared on the excellent <em>Rare Replay</em> collection for the Xbox One though and perhaps Microsft would just not be open to the idea.</p><p>This ultimately leads us to the question of how many games would end up on the system, the NES Mini had 30 titles, the SNES Mini’s roster dropped that count to 21. The N64 Mini, much like the SNES has a library that could easily hit the 30 titles the NES Mini had depending on third party involvement but I could just as easily see them drop to the 15 game mark and rely mostly on first party output.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;With the SNES Mini edging closer to release I was thinking about what a N64 Mini could look like and what game selection the system could realistically have.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ROM Dump - Video Thoughts (29/08/17)</title>
+    <link href="http://pucechan.ga/2017/08/ROM-Dump-Video-Thoughts-29-08-17/"/>
+    <id>http://pucechan.ga/2017/08/ROM-Dump-Video-Thoughts-29-08-17/</id>
+    <published>2017-08-29T21:52:00.000Z</published>
+    <updated>2018-01-27T21:41:21.452Z</updated>
+    
+    <content type="html"><![CDATA[<p>An update on video progress and thoughts on future posts…</p><a id="more"></a><p>Clearly my original plan on doing video reviews for all 21 SNES games that appear on the SNES Mini hasn’t happened, instead I’ve been giving each game a mini-review post here. I’ve got some ground to cover if I plan on talking about the other 19 games before it launches at the end of the month but it’ll be fun to see how many I manage to cover.</p><p>I do plan on doing a video review of the SNES Mini when it launches in which I’ll no doubt cover each game briefly as well as the machine itself. I do want to start talking about other retro systems and games as well, especially the home computers and systems I grew up with.</p><p>I’ve been creating some motion graphic templates for my videos which has definitely had a bit of a learning curve. It feels like it’s taking me ages to put my first video together but I’m hopeful I’ll be happy with what I put out and future ones will have a much quicker turnaround.</p><p><img src="TirNaNog.jpg" alt="Tir na nog CPC"></p><p>I’m restructuring the script I’d written about Gargoyle Games to be more about their adventure games <em>Tír na nòg</em>, <em>Dun Darach</em> and <em>Marsport</em> rather than the company as a whole. While I like the thought of doing documentary-style content, I’d like them to contain information that’s not just regurgitated from common public sources. As such I feel like talking about the games in a mini-review and childhood thoughts format will be more interesting.</p><p>I’m still wanting do do some kind of informal casual let’s play series too, ideally something meaty that I’m not too familiar with. The SSI Gold Box titles are something I’ve wanted to play through for a long time but presentation-wise they are a challenge. As old PC titles the audio is predominantly PC Speaker bleeps and bloops with no music to speak of.</p><p>They also refer to the manuals/journals frequently so displaying that info poses an issue. This is something I’ll be putting some thought into as there are a lot of older PC titles and DRPGs I’d like to play through.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;An update on video progress and thoughts on future posts…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="General" scheme="http://pucechan.ga/categories/General/"/>
+    
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+      <category term="ROM Dump" scheme="http://pucechan.ga/tags/ROM-Dump/"/>
+    
+      <category term="Site" scheme="http://pucechan.ga/tags/Site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5 SHMUPs Too Good For Europeans</title>
+    <link href="http://pucechan.ga/2017/08/5-SHMUPs-Too-Good-For-Europeans/"/>
+    <id>http://pucechan.ga/2017/08/5-SHMUPs-Too-Good-For-Europeans/</id>
+    <published>2017-08-22T00:52:00.000Z</published>
+    <updated>2018-01-27T21:41:21.425Z</updated>
+    
+    <content type="html"><![CDATA[<p>Everyone loves lists, easy to digest opinions that foster discussion, so I thought I’d start off by covering five awesome SNES/Megadrive era shmups I never got to play due to being in the UK.</p><a id="more"></a><p>I’m a huge fan of the shoot’em up genre, despite not being great at them and the fourth generation of consoles received some gems. Many of which never came to Europe (or North America) and as such I never got to play them growing up.</p><p>This list, certainly not a comprehensive one as many titles never made it to UK shores, consists of five games that I’d have loved to have had the chance to play twenty-five or so years ago when they were originally released.</p><h1 id="5-Gradius-III-SNES"><a href="#5-Gradius-III-SNES" class="headerlink" title="5. Gradius III (SNES)"></a>5. Gradius III (SNES)</h1><h2 id="Konami-1990-JP-1991-NA"><a href="#Konami-1990-JP-1991-NA" class="headerlink" title="Konami 1990 (JP)/1991 (NA)"></a>Konami 1990 (JP)/1991 (NA)</h2><p><img src="Gradius3.jpg" alt="Gradius III on the SNES"></p><p>The Super Nintendo port of Konami’s classic <em>Gradius III</em> suffers from major slowdown, a common quirk with a lot of early SNES titles, and was sufficiently different to the arcade version having some levels omitted and others shuffled or remixed. Graphically it looks the part comparing favourably to its arcade cousin. This was one of the higher-profile SNES releases to never hit European shores and it wasn’t until the PlayStation 2 re-release alongside <em>Gradius IV</em> in 2000 that we got a version of this to enjoy.</p><h1 id="4-Eliminate-Down-Mega-Drive-Genesis"><a href="#4-Eliminate-Down-Mega-Drive-Genesis" class="headerlink" title="4. Eliminate Down (Mega Drive/Genesis)"></a>4. Eliminate Down (Mega Drive/Genesis)</h1><h2 id="Aprinet-1993-JP"><a href="#Aprinet-1993-JP" class="headerlink" title="Aprinet 1993 (JP)"></a>Aprinet 1993 (JP)</h2><p><img src="EliminateDown.jpg" alt="Elimate Down on the Mega Drive"></p><p>This interesting title features a weapons system similar to the popular <em>Hellfire</em>, with you able to change between three directionally distinct weapons: Forward Shot, Rear Laser and Diagonal Bombs. You can power-up your weapons by collecting five pickups per rank and interestingly this upgrades all three weapon types. The game has a high difficulty curve due to lacking checkpoints, forcing a level restart but controls well and feels nice to play. Thematically it’s quite generic but it does have some really nice art direction.</p><h1 id="3-M-U-S-H-A-Mega-Drive-Genesis"><a href="#3-M-U-S-H-A-Mega-Drive-Genesis" class="headerlink" title="3. M.U.S.H.A. (Mega Drive/Genesis)"></a>3. M.U.S.H.A. (Mega Drive/Genesis)</h1><h2 id="Compile-1990-JP-NA"><a href="#Compile-1990-JP-NA" class="headerlink" title="Compile 1990 (JP/NA)"></a>Compile 1990 (JP/NA)</h2><p><img src="MUSHA.jpg" alt="M.U.S.H.A. on the Mega Drive"></p><p>Compile’s loose <em>Aleste</em> series is perhaps better known from their Super Nintendo outing, <em>Super Aleste</em> (<em>Space Megaforce</em> in the US) despite the series originating way back in 1988 on the MSX2 computer. This Megadrive entry is regarded as one of the best shmups of the whole 16-bit era and it’s not hard to see why. Featuring a unique visual aesthetic with a blend of futuristic and traditional Japanese architecture, it certainly stands out visually whilst retaining a similar powerup system from earlier <em>Aleste</em> titles.</p><h1 id="2-Macross-Scrambled-Valkyrie-SNES"><a href="#2-Macross-Scrambled-Valkyrie-SNES" class="headerlink" title="2. Macross: Scrambled Valkyrie (SNES)"></a>2. Macross: Scrambled Valkyrie (SNES)</h1><h2 id="Winkysoft-1993-JP"><a href="#Winkysoft-1993-JP" class="headerlink" title="Winkysoft 1993 (JP)"></a>Winkysoft 1993 (JP)</h2><p><img src="Macross.jpg" alt="Macross: Scrambled Valkyrie on the SNES"></p><p>This is a hidden gem if ever there was one, absolutely gorgeous visuals and an interesting transformation gimmick as you’d expect from a Macross title. Your Valkyrie fighter can change between Fighter, GERWALK and Battroid forms which change both the size of your hitbox as well as your weapon. Each of the forms can be powered up seperately.</p><h1 id="1-Spriggan-Mark-2-PC-Engine-CD"><a href="#1-Spriggan-Mark-2-PC-Engine-CD" class="headerlink" title="1. Spriggan Mark 2 (PC Engine CD)"></a>1. Spriggan Mark 2 (PC Engine CD)</h1><h2 id="Compile-1992-JP"><a href="#Compile-1992-JP" class="headerlink" title="Compile 1992 (JP)"></a>Compile 1992 (JP)</h2><p><img src="SprigganMk2.jpg" alt="Spriggan Mark 2 on the PC Engine CD"></p><p>The PC Engine never officially came out in Europe, so we never got to witness the many great shoot ‘em ups on the system, especially those that came out for its CD-based variants. This mech-based shmup is a fast-paced affair with basic loadout customisation and fully voiced anime intermission sequences. AI mechs often assist alongside big hulking battleships which makes an interesting change of pace, in many ways it has a similar feel to <em>Assault Suits Valken/Cybernator</em> but with a much faster pace. It looks and sounds phenomenal and controls well.</p><p>So there we go, five traditional shmups that never saw European releases. Feel free to leave your thoughts on unusual or uncommonly talked about shmups in the comments below!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Everyone loves lists, easy to digest opinions that foster discussion, so I thought I’d start off by covering five awesome SNES/Megadrive era shmups I never got to play due to being in the UK.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="SHMUP" scheme="http://pucechan.ga/tags/SHMUP/"/>
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="Listicle" scheme="http://pucechan.ga/tags/Listicle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Road to SNES Mini - Super Castlevania IV</title>
+    <link href="http://pucechan.ga/2017/08/Road-to-SNES-Mini-Castlevania-IV/"/>
+    <id>http://pucechan.ga/2017/08/Road-to-SNES-Mini-Castlevania-IV/</id>
+    <published>2017-08-10T21:08:00.000Z</published>
+    <updated>2018-01-27T21:41:21.455Z</updated>
+    
+    <content type="html"><![CDATA[<p>After looking at <em>Contra 3</em> I take a look at the first <em>Castlevania</em> on the Super Nintendo as we head ever onwards towards the <strong>SNES Mini</strong>‘s launch. How does <em>Super Castlevania IV</em> hold up?</p><a id="more"></a><p><em>Super Castlevania IV</em> whipped its way onto the SNES almost a year after the Japanese launch and within six months of both North American and European launches. Like it’s prior entries, <em>Super Castlevania IV</em> is a side-scrolling platformer seeing you take control of Simon Belmont as he whips his way through a variety of undead to take on Dracula himself.</p><p><img src="Castlevania1.jpg" alt="Opening Stage"></p><p>Visually the game is still very appealing, the spritework has aged well and it uses the Super Nintendo’s capabilites to produce some memorable areas and boss fights. Mode 7’s scaling and rotation is used to great effect throughout, especially when it comes to spinning backgrounds and large enemies.</p><p>The soundtrack, again by Konami veteran Adachi Masanori, still sounds great with sweeping atmospheric pieces that use motifs and subtle arrangements from prior games tracks to superb effect. From the familiar <em>‘Simon’s Theme’</em> and arrangement of the classic <em>‘Bloody Tears’</em> to the haunting <em>‘Chandeliers’</em> it all fits really well with what’s onscreen.</p><p><img src="Castlevania2.jpg" alt="Fighting the Hydra"></p><p>The game itself in many ways feels like a remake of the first game, very linear like most pre-<em>Symphony of the Night</em> entries it has great pacing throughout with no real lulls in the action. It’s also not a slow game,technical slowdown notwithstanding, its approach to combat is a lot more deliberate and timing based than you’d perhaps expect. That this doesn’t end up making it feel like a slog is testament to the skills of the small dev team.</p><p>Compared to <em>Contra III: The Alien Wars</em> it has a much fairer difficulty curve and while it’s definitely challenging towards the end it gets there in small steps rather than just demanding you <strong>deal with it</strong>. Overall <em>Super Castlevania IV</em> still holds up splendidly and is still worth playing today. It obviously doesn’t have the longevity of the games it would later inspire to form a new portmanteau’d genre with but its legacy is still visible within them.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;After looking at &lt;em&gt;Contra 3&lt;/em&gt; I take a look at the first &lt;em&gt;Castlevania&lt;/em&gt; on the Super Nintendo as we head ever onwards towards the &lt;strong&gt;SNES Mini&lt;/strong&gt;‘s launch. How does &lt;em&gt;Super Castlevania IV&lt;/em&gt; hold up?&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="SNES Mini" scheme="http://pucechan.ga/tags/SNES-Mini/"/>
+    
+      <category term="Review" scheme="http://pucechan.ga/tags/Review/"/>
+    
+      <category term="Castlevania" scheme="http://pucechan.ga/tags/Castlevania/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Road to SNES Mini - Contra III: The Alien Wars</title>
+    <link href="http://pucechan.ga/2017/08/Road-to-SNES-Mini-Contra-III-The-Alien-Wars/"/>
+    <id>http://pucechan.ga/2017/08/Road-to-SNES-Mini-Contra-III-The-Alien-Wars/</id>
+    <published>2017-08-02T15:27:10.000Z</published>
+    <updated>2018-01-27T21:41:21.460Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m excited about the <strong>SNES Classic Mini</strong> and as such I wanted to look back at each of the games included in the cute 16-bit nostalgia box to see how well they’ve aged. First up, <em>Contra III: The Alien Wars</em>…</p><a id="more"></a><p><em>Contra III: The Alien Wars</em> or, as I knew it reading magazines before the Super Nintendo launched in the UK, its Japanese title <em>Contra Spirits</em> was the follow-up to the prior NES run and gun titles, <em>Contra</em> and <em>Super C</em>. It dragged the popular run and gun franchise into the 16-bit era demonstrating how much more powerful the SNES was compared to it’s outgoing 8-bit sibling. But does it hold up 25 years later?</p><p><img src="Contra3Screen3.jpg" alt="&#39;Stage 1 Boss&#39;"></p><p><em>Contra III</em>‘s aesthetic still looks great, extending the games old 8-bit look in a logical way with a bright colour palette and fun enemy designs; especially when it comes to bosses. Konami used the extra power the new console provided to come closer to the arcade versions than was possible on the NES.</p><p>Each of the six stages has a distinct look with unique enemies as you blast your way through ready to defeat Red Falcon. The game does suffer from slowdown in quite a few areas but it doesn’t detract too much from the action. Konami used the opportunity to showcase the SNES’ <strong>Mode 7</strong> scaling and rotation abilities with a couple of levels that took on an overhead perspective too, offering a break in the left-to-right shooty action.</p><p><img src="Contra3Screen4.jpg" alt="&#39;Clever use of Mode 7&#39;"></p><p>Outside of the visuals, <em>Contra III</em> has a great soundtrack, with multiple Konami Kukeiha Club members contributing to the futuristic soundscape. It still sounds great today and really adds to the dark atmosphere.</p><p><em>The Alien Wars</em> also holds true to the difficulty of the <em>Contra</em> series, combining some tricky platforming with enemies that shoot at the most frustrating angles. Even the <strong>Easy</strong> difficulty can prove to be a challenge until you get into the right mindset for taking on Red Falcon.</p><p><img src="Contra3Screen2.jpg" alt="&#39;Snatcher/Terminator Inspired Boss&#39;"></p><p>Despite the game’s difficulty it is still a lot of fun to play, especially with a friend in tow, and is probably the high point of the whole <em>Contra</em> series. Tight controls, some great graphics, an awesome soundtrack and that unforgettable Snatcher/Terminator inspired boss fight made coming back to this a lot of fun.</p><p>Still as strong as it was when it launched 25 years ago, <em>Contra 3: The Alien Wars</em> is a solid title and a good way to remind yourself that 90’s era Konami were a god-tier developer. A great addition to the <strong>SNES Mini</strong> as one of two Konami titles on the machine, I’ll be taking a look at the other, <em>Super Castlevania IV</em>, next time to see how that holds up.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I’m excited about the &lt;strong&gt;SNES Classic Mini&lt;/strong&gt; and as such I wanted to look back at each of the games included in the cute 16-bit nostalgia box to see how well they’ve aged. First up, &lt;em&gt;Contra III: The Alien Wars&lt;/em&gt;…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="SNES Mini" scheme="http://pucechan.ga/tags/SNES-Mini/"/>
+    
+      <category term="Review" scheme="http://pucechan.ga/tags/Review/"/>
+    
+      <category term="Contra" scheme="http://pucechan.ga/tags/Contra/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ROM Dump - Site Ramblings (31/07/17)</title>
+    <link href="http://pucechan.ga/2017/07/ROM-Dump-Site-Ramblings-30-07-17/"/>
+    <id>http://pucechan.ga/2017/07/ROM-Dump-Site-Ramblings-30-07-17/</id>
+    <published>2017-07-30T23:00:00.000Z</published>
+    <updated>2018-01-27T21:41:21.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>An update? Progress! I’d better talk a bit about what sort of content I want to produce and when I intend for them to happen.</p><a id="more"></a><p>Following on from my thoughts on the <strong>SNES Classic Mini</strong> I intend to do a review/thoughts style post and video on each game included on the cute 16-bit box in the run-up to its launch.</p><p>I’m planning to start actively populating my YouTube channel so 21 reviews seem as good a thing to start with as anything. They’ll be a good way of practising basic video editing too <em>(hopefully improving as I go!)</em></p><p><img src="SecretOfMana.jpg" alt="&#39;Square&#39;s Classic Secret of Mana&#39;"></p><p>I’d also like to start doing <em>Let’s Play</em> videos, I’ve intermittently streamed on and off for the last few years and scheduling has always been an issue. Because of that I’m thinking that doing them as edited videos might make more sense. Doing them that way means I can record as time allows.</p><p>This is just spitballing at the moment as I’ve no idea how long scripting and editing videos like that would take but it’s something I’m thinking about.</p><p>Anyone who knows me will also know I’ve had plans for a series called <strong>RETROspective</strong> on the backburner for a while. It involves looking back at developers from the old 8-bit microcomputer days like <em>Gargoyle Games</em> that created games that’ve stuck with me in one way or another. I have had three scripts written for a while and just need to record them and sort out something visual for them.</p><p><img src="TirNaNog.jpg" alt="&#39;Gargoyle Games&#39;"></p><p>So that’s something else that I plan on finally getting out in some form at some indeterminate time in the future! I have fond memories of the <em>ZX Spectrum</em>, <em>Amstrad CPC</em> and other systems of the era so it’d be nice to put some hopefully interesting videos out that talk about developers that don’t have much covering them.</p><p>There is no timeline for any of these things but they are all projects that I want to spend time on. I have a whole bunch of other ideas for columns on this blog, but I’ll talk about those another time.</p><p>I’d better get cracking on the first SNES review…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;An update? Progress! I’d better talk a bit about what sort of content I want to produce and when I intend for them to happen.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="ROM Dump" scheme="http://pucechan.ga/tags/ROM-Dump/"/>
+    
+      <category term="Site" scheme="http://pucechan.ga/tags/Site/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The SNES Classic Mini - Yet Another Hot Take</title>
+    <link href="http://pucechan.ga/2017/07/The-SNES-Classic-Mini-Yet-Another-Hot-Take/"/>
+    <id>http://pucechan.ga/2017/07/The-SNES-Classic-Mini-Yet-Another-Hot-Take/</id>
+    <published>2017-07-23T11:55:16.000Z</published>
+    <updated>2018-01-27T21:41:21.472Z</updated>
+    
+    <content type="html"><![CDATA[<p>Nintendo’s second foray into shrinking its home consoles into adorable nostalgia boxes focuses on the 16-bit powerhouse. It launches on the 29th September so let’s talk about it…<br><a id="more"></a></p><p><img src="NintendoClassicMiniSNES.jpg" alt="SNES Classic Mini" title="Look at how cute it is!!!"></p><h2 id="‘Now-You’re-Playing-With-Super-Power’"><a href="#‘Now-You’re-Playing-With-Super-Power’" class="headerlink" title="‘Now You’re Playing With Super Power’"></a>‘Now You’re Playing With Super Power’</h2><p>Nintendo’s decision to create a tiny replica of the original NES was a masterstroke so it was only a matter of time before they repeated the process with the Super Nintendo. The <strong>SNES Classic Mini</strong> plays host to 21 titles from the huge SNES library and the choices made here are interesting, obviously you can’t please everyone but it’s hard to argue with the quality of the lineup.</p><p>For reference the lineup consists of: </p><ul><li><strong>Action:</strong> <em>Contra III: The Alien Wars</em>, <em>Mega Max X</em>, <em>Super Ghouls ‘n Ghosts</em>, <em>Super Metroid</em></li><li><strong>Platformer:</strong> <em>Donkey Kong Country</em>, <em>Kirby Super Star</em>, <em>Super Mario World</em>, <em>Yoshi’s Island</em></li><li><strong>RPGs:</strong> <em>Final Fantasy III</em>, <em>Legend of Zelda: A Link to the Past</em>, <em>Secret of Mana</em> and <em>Super Mario RPG</em></li><li><strong>Racing:</strong> <em>F-Zero</em>, <em>Super Mario Kart</em></li><li><strong>SHMUP/Rail Shooter:</strong> <em>Star Fox</em>, <em>Star Fox 2</em></li></ul><p>In addition to those the West also gets:</p><ul><li><strong>EU/NA:</strong> <em>EarthBound</em>, <em>Kirby’s Dream Course</em>, <em>Street Fighter II Turbo: Hyper Fighting</em>, <em>Super Castlevania IV</em> and <em>Super Punch-Out!!</em></li></ul><p>Whereas the Japanese market gets:</p><ul><li><strong>JP:</strong> <em>Fire Emblem: Mystery of the Emblem</em>, <em>The Legend of the Mystical Ninja</em>, <em>Panel de Pon</em>, <em>Super Soccer</em> and <em>Super Street Fighter II: The New Challengers</em></li></ul><p>The regional differences are interesting, some curious swaps, especially <em>Street Fighter</em>…</p><h2 id="Trimming-The-Fat"><a href="#Trimming-The-Fat" class="headerlink" title="Trimming The Fat"></a>Trimming The Fat</h2><p>Having to select 21 titles from a library stretching into the many hundreds is a daunting task and I think Nintendo have done a solid job selecting bona fide classics with the possible exception of <em>Kirby’s Dream Course</em> in the West and <em>Super Soccer</em> in Japan but those do add to genre diversity.</p><p>There are some genuine classics missing such as <em>Chrono Trigger</em> and <em>ActRaiser</em> with entire genres that were massive during that era totally unrepresented like side-scrolling beat ‘em ups or SHMUPs. No <em>Final Fight</em> or <em>TMNT: Turtles in Time</em>  to represent fisticuffs and no <em>Super Aleste/Space Megaforce</em> or <em>Axelay</em> to train projectile avoidance is unfortunate.</p><blockquote><p>The SNES has such a diverse library of genuinely great titles, having to choose which titles make it onto the device must’ve been tough.</p></blockquote><p>The NES Classic Mini came with 30 games so I wonder what made Nintendo make the SNES Mini limit 21. The games definitely take up more space but storage space isn’t that expensive these days.</p><p>Ultimately you have to put a cutoff point somewhere but seeing popular genres unrepresented does feel like a mistake, maybe they’ll make an appearance on a theoretical SNES Classic Mini 2?</p><h2 id="Import-Woes"><a href="#Import-Woes" class="headerlink" title="Import Woes"></a>Import Woes</h2><p>As someone in the UK the RPG titles are especially interesting as three of the five never came out in Europe originally and this will be the first time they’ll be getting some kind of <strong>physical</strong> release over here. Those titles being <em>EarthBound</em>, <em>Final Fantasy III</em> and <em>Super Mario RPG: Legend of the Seven Stars</em>.</p><p><img src="supermariorpg.jpg" alt="Super Mario RPG Title Screen"></p><p>Whilst we’ve had the ability to play those games via Virtual Console releases and emulation there is something nostalgically satisfying about knowing we’ll finally get to play those games with a SNES controller on a machine that looks like a SNES.</p><blockquote><p><em>Final Fantasy III</em> is the Western name for <em>Final Fantasy VI</em> due to various games not releasing in all territories. With <em>Final Fantasy VII</em> on the PlayStation, naming finally got back on track.</p></blockquote><p>As an RPG fan <em>Final Fantasy III</em>, which is actually <em>Final Fantasy VI</em>, was one of those games that I used to scrutinise magazines for information on. We rarely got Square’s RPG output in Europe until PS1-era <em>Final Fantasy</em> broke the deadlock (and even then we missed out on a lot of stuff that got North American releases) so any scraps about these massive adventures were hastily absorbed.</p><p>At the time I was saving up to import it, but when it finally released in 1994 it turned out that without a hardware modification to a PAL SNES it wouldn’t work even with an import game converter. I believe <em>Super Mario RPG</em> also suffered from this issue, and with no European release in sight for either of those games I never got to play them until many years later via emulation and ultimately Virtual Console releases.</p><p>Finally being able to own these games in a physical format (albeit one that is still emulating them) feels like a milestone to me, 15 year old me would be extremely excited right now!</p><p>Scouring the Internet to see if there were any titles that just never came to North America in a similar vein I was surprised that the third entry in Quintet’s so-called <em>Soul Blazer</em> trilogy, <em>Terranigma</em>, never saw an official NA release.</p><p>A cult classic today, this action RPG is often considered the developer’s best work. This would’ve been a lovely addition to the SNES Classic Mini, offering a similar <strong>“I can play it finally!”</strong> feeling for North American fans.</p><p><img src="starfox2.jpg" alt="Star Fox 2 Title Screen" title="It&#39;s Happening!"></p><h2 id="‘Roger-I’m-heading-back-to-Corneria’"><a href="#‘Roger-I’m-heading-back-to-Corneria’" class="headerlink" title="‘Roger. I’m heading back to Corneria’"></a>‘Roger. I’m heading back to Corneria’</h2><p>The big surprise when Nintendo announced the SNES Classic Mini is that Star Fox 2 would finally be officially released after 22 years. I’m beyond excited to finally see what the final form of this game looks like!</p><p>Dylan Cuthbert, developer on the original <em>Star Fox</em> and the ill-fated sequel, has gone on record as saying the game was fully finished and had gone through the full Mario Club testing process before being shelved due to the then impending 1995 launch of the Nintendo 64. This of course ended up being delayed but <em>Star Fox 2</em> never got put back on the release slate.</p><p>A variety of beta versions of the game have surfaced with the most fully-featured getting tidied up and fan-translated by the well known <a href="http://agtp.romhack.net/" target="_blank" rel="noopener">Aeon Genesis</a> hacking group and whilst this version is playable from start to finish it is missing elements and features from the final release according to Cuthbert.</p><p>As a huge <em>Star Fox</em> fanboy I can’t wait to see how it compares. <em>Star Fox 2</em> being on the SNES Classic Mini is such an unlikely thing to happen it’s worth the asking price for that alone.</p><h2 id="Closing-Thoughts"><a href="#Closing-Thoughts" class="headerlink" title="Closing Thoughts"></a>Closing Thoughts</h2><p>A big part of the draw for these things is nostalgia and the SNES Classic Mini hits all those notes for me personally, the SNES was both the first console and the first 16-bit machine I had permanent access to as I’d mostly played games on my faithful 8-bit Amstrad CPC.</p><p>I’d played other consoles around friend’s houses like the Sega Master System and Megadrive (in my experience the NES was far rarer here in the UK) but the good old Super Nintendo was mine, because of that it holds lots of happy memories. I’m rather attached to the curvy grey shell in ways that the original NES Classic Mini could never manage.</p><p>I’m looking forward to putting the machine through its paces when mine arrives later in the year. In the run up to the release though I plan on seeing how each game stands up after all these years and writing a bit about each of them.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Nintendo’s second foray into shrinking its home consoles into adorable nostalgia boxes focuses on the 16-bit powerhouse. It launches on the 29th September so let’s talk about it…&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Gaming" scheme="http://pucechan.ga/categories/Gaming/"/>
+    
+    
+      <category term="Retro" scheme="http://pucechan.ga/tags/Retro/"/>
+    
+      <category term="Thoughts" scheme="http://pucechan.ga/tags/Thoughts/"/>
+    
+      <category term="SNES Mini" scheme="http://pucechan.ga/tags/SNES-Mini/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Blog, New Start</title>
+    <link href="http://pucechan.ga/2017/07/New-Blog-New-Start/"/>
+    <id>http://pucechan.ga/2017/07/New-Blog-New-Start/</id>
+    <published>2017-07-23T02:20:00.000Z</published>
+    <updated>2018-01-27T21:41:21.439Z</updated>
+    
+    <content type="html"><![CDATA[<p>As is customary for every new blog, this post hopefully outlines my hopes for the blog and what kind of content you can expect.</p><a id="more"></a><h2 id="So-what-is-this-dump"><a href="#So-what-is-this-dump" class="headerlink" title="So what is this dump?"></a>So what is this dump?</h2><p>Basically it’s a place for me to write about games, tech and other nerdy subjects in a more casual, informal way. I contribute to gaming website, <a href="http://www.gamegrin.com" title="Visit GameGrin" target="_blank" rel="noopener">GameGrin</a>, in a more formal manner <em>(at least in theory)</em> and regularly appear on their gaming podcast; the imaginatively titled <strong><em>GrinCast</em></strong>.</p><blockquote><p><em>The quality of your thinking determines the quality of your life.</em><br><strong>- A.R. Bernard</strong></p></blockquote><p>Having somewhere to talk about things in a more immediate, quicker format should be fun. Especially when it comes to weird esoteric things that interest me!</p><h2 id="So-what-stuff-can-I-expect"><a href="#So-what-stuff-can-I-expect" class="headerlink" title="So what stuff can I expect?"></a>So what stuff can I expect?</h2><p>When it comes to gaming I enjoy a huge spectrum. From 80s microcomputers to the current generation, most things should be covered. Expect the unexpected!</p><p><img src="starfox_team.jpg" alt="Starfox Team"></p><p>Outside of gaming I have an interest in various programming languages and learning new things. This blog itself is a manifestation of that as I used it as an excuse to learn about static site generation, <a href="http://hexo.io" target="_blank" rel="noopener">Hexo</a>, <em>JavaScript</em> and <a href="http://www.nodejs.org" target="_blank" rel="noopener">NodeJS</a> as I created the site from scratch.</p><p>Whilst I imagine the bulk of the content here will be gaming related there is a good chance other nerdy stuff will pop up from time to time.</p><p>Feel free to comment on anything and everything!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;As is customary for every new blog, this post hopefully outlines my hopes for the blog and what kind of content you can expect.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="General" scheme="http://pucechan.ga/categories/General/"/>
+    
+    
+      <category term="Blog" scheme="http://pucechan.ga/tags/Blog/"/>
+    
+      <category term="Hexo" scheme="http://pucechan.ga/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
